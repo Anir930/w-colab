@@ -13,7 +13,7 @@ on:
 permissions:
   contents: read
   pages: write
-  id-token:2ootnR8G2cgUYZBch7rT6CO96vG_6pV8CxfqTaFgXSpSc1nA8
+  id-token:
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
